@@ -43,4 +43,4 @@ EOL
 echo "Created $filename"
 
 # Run the test
-npx cypress run --headed --browser chrome
+npx cypress run --browser chrome
