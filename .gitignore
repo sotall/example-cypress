@@ -13,5 +13,9 @@
 # Sublime Text
 .sublime-workspace
 
+# Ingore Node modules and package-lock.json
+node_modules/
+**/package-lock.json
+
 # Ignore Cypress fresh install
 /demo/
